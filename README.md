@@ -6,13 +6,19 @@ Project Description:
 This project combines of Python, GUI and Tkinter. In this Project we gonna hide messages into an image and decrypt back to its original form. First we need to choose an image from the File Explorer Or any other sources we wish. Make sure that the file you are choosing should be either in png/jpg or .txt format. After choosing the desired picture, write the message you want to hide. After writing the required message, click "Save Image". Then the image will be saved in the same location as, "Imghidden.jpg". Now for the decryption process, click the "Imghidden.jpg" file and select decrypt option and it will display the message hidden in the selected image.
 
 Libraries Used:
+
 PIL
+
 Stegano
+
 OS
+
 Filedialog
+
 ImageTk
 
 Purpose:
+
 Confidential communication: Steganography can be used to send confidential messages without raising suspicion, unlike encryption, which can be detected by sophisticated security systems.
 
 Copyright protection: Steganography can be used to embed copyright information within digital media to protect it from unauthorized use.
